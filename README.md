@@ -17,3 +17,5 @@ This repository contains a comprehensive analysis of flight delays based on a da
 6. **Regression Analysis:** Utilize linear regression to model the relationship between departure delays and arrival delays, providing insights into their correlation.
 
 `Footnote` the dataset is not provided due to the size (780MB) , dataset will be provided upon request! 
+API access to Kaggle 
+`kaggle datasets download -d rafikulbinmasud/reporting-carrier-on-time-performance-2023-jan-aug`
