@@ -1,6 +1,6 @@
 
+![83AP](https://github.com/benmasud/2023-Flight-delay-Analysis-with-ML/assets/69720999/7d687947-a13d-497d-b22e-fe3335145b64)
 
-![homer-simpson-the-simpsons](https://github.com/benmasud/2023-Flight-delay-Analysis-with-ML/assets/69720999/bb46dc40-3229-4da6-abe4-dce548caf18c)
 
 # 2023-Flight-delay-Analysis-with-ML
 
